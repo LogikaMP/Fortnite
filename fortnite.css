@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    font-family: "Oswald",sans-serif;
+    font-size: 16px;
+    background-image: linear-gradient(black, purple );
+    color: green;
+}
+header{
+    text-align: center;
+    margin-bottom: 1%;
+}
+header img{
+    width: 50%;
+}
+nav{
+width: 100%;
+padding: 1% ;
+display: flex;
+justify-content: space-between;
+}
+nav a{
+text-decoration: none;
+border: 4px groove whitesmoke;
+color: whitesmoke;
+border-radius: 10px;
+padding: 1%;
+background-color: #101032;
+}
+.my{
+color: #010132;
+background-color: whitesmoke;
+}
+main img{
+width: 70%;
+margin-left: 15%;
+}
+footer{
+padding: 4%;
+background-color: whitesmoke;
+color: #070760;
+margin-top: 5%;
+}
+footer h2{
+text-align: center;
+}
+footer div{
+display: flex;
+justify-content: space-between;
+}
+h4{
+ text-align: center;
+}
+td img{
+    width: 50px;
+    height: 50px;
+}
+table{
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    padding: 1%;
+    border-collapse: collapse;
+    font-size: 24px;
+}
+td{
+    border:2px solid darkgreen;
+}
+h5{
+    text-align: center;
+    font-size: 50px;
+}
+td img{
+    width: 50%;
+    height: auto;
+}
+.box_shadow{
+    box-shadow:  20px 20px 30px 30px purple;
+}
+.moll{
+    box-shadow: 20px 20px 30px 30px azure;
+}
+.shadow{
+    text-shadow: 15px 20px 13px white;
+}
+table{
+    background-color: aquamarine;
+    box-shadow: 4px 4px 8px burlywood;
+    margin-top: 5%;
+
+}
+     
+
+.btn{
+    font-size: 30px;
+    margin:5% 30%;
+    color:green;
+}
